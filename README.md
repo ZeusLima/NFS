@@ -9,3 +9,4 @@ Inicialmente sem ideias do que usar para o front
 
 A primeira ideia do que pode ser a página de login:
 
+![alt text](<Captura de tela 2025-09-26 004002.png>)
