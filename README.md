@@ -10,3 +10,4 @@ Inicialmente sem ideias do que usar para o front
 A primeira ideia do que pode ser a página de login:
 
 ![alt text](<Captura de tela 2025-09-26 004002.png>)
+<img width="1419" height="890" alt="Captura de tela 2025-09-26 004002" src="https://github.com/user-attachments/assets/918af60c-abc8-42c7-a833-8f5d3b108d2f" />
