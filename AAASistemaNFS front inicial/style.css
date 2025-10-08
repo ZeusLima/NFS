@@ -1,0 +1,124 @@
+* { 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+#left_collum_login {
+    border: 0px solid blue;
+    margin: 0%;
+    padding: 0px;
+    height: 100vh;
+}
+
+#logo_login_pg {
+    height: 50%;
+    width: 50%;
+    align-self: center;
+    border: px solid green;
+    margin: 15xp;
+ 
+}
+
+.img_logo {
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+body {
+    background-color: #ffffff;
+    margin:  0px;
+    padding: 0px;
+}
+
+#right_collum_login {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/* #img_login {
+    background-image: url("Projeto NFS/tobias-aero-edited-2.jpg");
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+} */
+
+
+
+.teste {
+    background-image: url("Projeto NFS/tobias-aero-edited-2.jpg");
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    border: px solid orange;
+}
+
+
+
+/* CSS from gpt for face, google and apple buttons */
+
+.social-login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 300px;
+}
+
+/* .social-loginbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+
+   transition: background 0.3s ease;
+} */
+
+.social_login {
+  margin-top: 5px;
+  
+}
+
+/* Google */
+.btn-google {
+  background-color: #ffffff;
+  color: #444;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.btn-google:hover {
+  background-color: #f2f2f2;
+}
+
+/* Facebook */
+.btn-facebook {
+  background-color: #1877f2;
+  color: #ffffff;
+  padding: 5px;
+}
+.btn-facebook:hover {
+  background-color: #145dbf;
+}
+
+/* Apple */
+.btn-apple {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 5px;
+}
+.btn-apple:hover {
+  background-color: #333333;
+}
